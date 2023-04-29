@@ -1,0 +1,30 @@
+[submodule "sem-3/Java_Lab"]
+	path = sem-3/Java_Lab
+	url = https://github.com/ansha-CSE-LABS/Java_Lab.git
+[submodule "sem-3/DS_Lab"]
+	path = sem-3/DS_Lab
+	url = https://github.com/ansha-CSE-LABS/DS_Lab.git
+[submodule "sem-4/ADA_Lab"]
+	path = sem-4/ADA_Lab
+	url = https://github.com/ansha-CSE-LABS/ADA_Lab.git
+[submodule "sem-4/DBMS_Lab"]
+	path = sem-4/DBMS_Lab
+	url = https://github.com/ansha-CSE-LABS/DBMS_Lab.git
+[submodule "sem-5/CN_Lab"]
+	path = sem-5/CN_Lab
+	url = https://github.com/ansha-CSE-LABS/CN_Lab.git
+[submodule "sem-5/USP_Lab"]
+	path = sem-5/USP_Lab
+	url = https://github.com/ansha-CSE-LABS/USP_Lab.git
+[submodule "sem-5/ADS_Lab"]
+	path = sem-5/ADS_Lab
+	url = https://github.com/ansha-CSE-LABS/ADS_Lab.git
+[submodule "sem-5/AI_Lab"]
+	path = sem-5/AI_Lab
+	url = https://github.com/ansha-CSE-LABS/AI_Lab.git
+[submodule "sem-6/ML_Lab"]
+	path = sem-6/ML_Lab
+	url = https://github.com/ansha-CSE-LABS/ML_Lab.git
+[submodule "sem-6/BDA_Lab"]
+	path = sem-6/BDA_Lab
+	url = https://github.com/ansha-CSE-LABS/BDA_Lab.git
