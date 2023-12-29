@@ -1,0 +1,16 @@
+
+   .MODEL SMALL
+   .STACK 64
+   .DATA
+   .CODE
+   START :MOV AX, @DATA
+   MOV DX,AX
+   MOV AL,01H
+   MOV BL,02H
+   ADD AL,BL
+   MOV S1,3000H
+   MOV [S1],AL
+   MOV AH,4CH
+   END START
+   .END
+
